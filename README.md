@@ -1,2 +1,2 @@
 # bootcamp
-Bootcamp work and whatnots
+Bootcamp 
